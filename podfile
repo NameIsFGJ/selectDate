@@ -1,0 +1,5 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'     #官方>索引库
+platform :ios, '8.0'
+target:'01Test' do
+pod 'Masonry'
+end
